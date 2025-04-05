@@ -1,5 +1,5 @@
-need node js installed in system
-for ruuning it on vs code following extenstion are required:
+need node js installed in system.
+for runing it on vs-code following extenstion are required:
   ESLint
   Prettier
   Tailwind CSS IntelliSense
